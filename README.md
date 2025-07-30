@@ -1,7 +1,4 @@
 # Chess.com Stats Card
-
-![Project Preview](https://i.imgur.com/JQZ1x0m.png)
-
 A beautiful glassmorphism card displaying Chess.com player statistics with gradient background and interactive elements.
 
 ## Features
